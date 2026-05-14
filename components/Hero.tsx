@@ -1,12 +1,12 @@
 export default function Hero() {
   return (
     <section className="mx-auto max-w-7xl px-6 py-16">
-      <h1 className="text-4xl leading-tight font-bold [text-shadow:0_0_8px_white,0_0_16px_white] md:text-6xl">
+      <h1 className="text-4xl leading-tight font-bold [text-shadow:0_0_8px_white,0_0_16px_white,0_0_24px_white,0_0_32px_white] md:text-6xl">
         企業の成長を、
         <br />
         テクノロジーで加速する。
       </h1>
-      <p className="mt-6 text-base font-medium [text-shadow:0_0_6px_white,0_0_12px_white] md:text-lg">
+      <p className="mt-6 text-base font-medium [text-shadow:0_0_6px_white,0_0_12px_white,0_0_18px_white,0_0_24px_white] md:text-lg">
         私たちは、業務課の解決から未来の値まで、
         <br />
         お客様に寄り添い、最適なソリューションを提供します。
